@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "de2ed04fc65d2347",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc31a3a39ad9efcc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "4. daliynotes/2022-08-21(35).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5262e0c703ff5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "497b1685227b7129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c764430a5616f3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df0fd01f941602c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9d40b0220ec2941",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "b26c1edfc447e51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "207608aeca98a2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da4ca10bad82430",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. daliynotes/2022-08-21(35).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b364e1b898e0af48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. daliynotes/2022-08-21(35).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de93ebb30f027e80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fcb6574d6659e68e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. daliynotes/2022-08-21(35).md"
+              }
+            }
+          },
+          {
+            "id": "6d4384b690097a83",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b0071548cf8d2da5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fc31a3a39ad9efcc",
+  "lastOpenFiles": [
+    "4. daliynotes/2022-08-21(35).md",
+    "3. tools/C. Markdown/Markdown.md",
+    "4. daliynotes/2022-08-08.md",
+    "README.md.md",
+    "1. dev/Obsidian-shortcut.md",
+    "3. tools/B. Obsidian/obsidian study.md",
+    "Pasted image 20220821173716.png",
+    "3. tools/생산성에 대해서.md",
+    "3. tools/B. Obsidian/PS_INDEX.md",
+    "4. daliynotes/2022-08-20(34).md"
+  ]
+}
